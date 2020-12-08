@@ -1,0 +1,24 @@
+mcc -C -o stAIcalc -W WinMain:stAIcalc -T link:exe -d 'D:\RENANA\ph.D thesis\project1_stAI\stAI_calculator\StandAloneTAIcalc\stAIcalc\for_testing' -v 'D:\RENANA\ph.D thesis\project1_stAI\stAI_calculator\StandAloneTAIcalc\stAI_GUI.m' -a 'D:\RENANA\ph.D thesis\project1_stAI\stAI_calculator\StandAloneTAIcalc\CodonsList.mat' -a 'D:\RENANA\ph.D thesis\project1_stAI\stAI_calculator\StandAloneTAIcalc\logo_stai_calc.png' -a 'D:\RENANA\ph.D thesis\project1_stAI\stAI_calculator\StandAloneTAIcalc\logo_tuller_lab2.png' -a 'D:\RENANA\ph.D thesis\project1_stAI\stAI_calculator\StandAloneTAIcalc\stAI_GUI.fig' -a 'D:\RENANA\ph.D thesis\project1_stAI\stAI_calculator\StandAloneTAIcalc\starting_points_euk.mat' -a 'D:\RENANA\ph.D thesis\project1_stAI\stAI_calculator\StandAloneTAIcalc\starting_points_prok.mat' 
+Compiler version: 6.1 (R2015b)
+
+Dependency analysis by REQUIREMENTS.
+
+[Warning: Adding path "D:\RENANA\ph.D
+thesis\project1_stAI\stAI_calculator\StandAloneTAIcalc" to Compiler path
+instance.] 
+[] 
+Parsing file "D:\RENANA\ph.D thesis\project1_stAI\stAI_calculator\StandAloneTAIcalc\stAI_GUI.m"
+	(Referenced from: "Compiler Command Line").
+Deleting 3 temporary MEX authorization files.
+Removing: 'C:\Users\renana\AppData\Local\Temp\mathworks_tmp_0132827200_4904.auth'.
+Removing: 'C:\Users\renana\AppData\Local\Temp\mathworks_tmp_013281948_4904.auth'.
+Removing: 'C:\Users\renana\AppData\Local\Temp\mathworks_tmp_0132811409_4904.auth'.
+Generating file "D:\RENANA\ph.D thesis\project1_stAI\stAI_calculator\StandAloneTAIcalc\stAIcalc\for_testing\readme.txt".
+Packaging...
+Adding custom icon D:\RENANA\ph.D thesis\project1_stAI\stAI_calculator\StandAloneTAIcalc\stAIcalc_resources\icon.ico to D:\RENANA\ph.D thesis\project1_stAI\stAI_calculator\StandAloneTAIcalc\stAIcalc\for_testing\stAIcalc.exe.
+Attempting to embed the CTF archive into the application D:\RENANA\ph.D thesis\project1_stAI\stAI_calculator\StandAloneTAIcalc\stAIcalc\for_testing\stAIcalc.exe.
+Finished embedding CTF archive. Deleting the external CTF archive.
+Creating the bundle...
+Web based installer created at D:\RENANA\ph.D thesis\project1_stAI\stAI_calculator\StandAloneTAIcalc\stAIcalc\for_redistribution\MyAppInstaller_web.exe.
+Packaging complete.
+Elapsed packaging time was: 1 minutes and 17 seconds.
